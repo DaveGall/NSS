@@ -1,0 +1,8 @@
+echo "This is my first file inside a directory I made inside another directory
+that I made through the terminal."
+#!/bin/bash
+a="Yes"
+b=1
+c=$(((b+1)*5))
+echo $a
+echo "I have $b cat. The cat lady down the street has $c cats."
